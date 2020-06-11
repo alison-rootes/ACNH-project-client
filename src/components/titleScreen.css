@@ -1,0 +1,18 @@
+#titleScreenBody {
+    background-image: url('./assets/animalCrossingTitleScreen.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+.button {
+    /* margin-top: 35em; */
+    /* margin-right: 15em; */
+    padding-left: 47vw;
+    padding-top: 85vh;
+    position: relative;
+}
+
+/* button {
+    /* border-top: 75%; */

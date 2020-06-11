@@ -1,0 +1,70 @@
+.app{
+    background-image: url(../assets/postbackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+.navbar{
+    margin-top: 0em;
+}
+
+.askQuestion{
+    margin-right: 0em;
+
+}
+
+.postBody{
+  min-width: 80px;
+  min-height: 10vh;
+  /* margin-top: 20vh; */
+  border: black;
+}
+
+.postScreenBody{
+    min-width: 80px;
+    min-height: 10vh;
+    /* margin-top: 20vh; */
+    border: black;
+    /* display: flex;
+    flex-direction: grid; */
+}
+
+.posts{
+    background-image: url(../../components/assets/message.jpg);
+    border: black;
+    border-width: thick;
+    max-width: 45vw;
+    max-height: 50vh;
+    display: inline-block 
+
+  }
+  
+  .user{
+    text-align: center;
+    color: antiquewhite;
+    size: 24px;
+  }
+  
+  .question{
+    text-align: center;
+    color: antiquewhite;
+    size: 24px;
+  }
+  
+  .discription{
+    text-align: center;
+    color: antiquewhite;
+    size: 24px;
+  }
+  
+  .createdAt{
+    text-align: right;
+    color: antiquewhite;
+    size: 24px;
+  }
+  
+  button {
+    text-align: center;
+  }
